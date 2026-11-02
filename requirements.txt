@@ -1,0 +1,8 @@
+# Training and local PLATEMO evaluation.
+torch>=1.12
+numpy>=1.23
+# Imported by the unmodified author reference code in test/reference/.
+matplotlib>=3.6
+sympy>=1.12
+pandas>=1.5
+tqdm>=4.64

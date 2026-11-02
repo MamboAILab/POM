@@ -1,0 +1,17 @@
+{
+  "repository": "https://github.com/ninja-wm/POM",
+  "revision": "41ee8804efd5efa237bb89d95e19fa4faa0cde0b",
+  "subset": "Unmodified upstream files needed for objective and original-model comparisons",
+  "sha256": {
+    "main.py": "f599091dae8758696ae2b4f929ac13bdf7d67a8c985f17b121e922186212aa5c",
+    "utils.py": "dc37b36ea64bb099065c64f7d3136ea6c747c205fbecc6875f4f872fa935c77d",
+    "GLHF_pkg/GLHF/__init__.py": "0991729dd2600fc18fb631e8ac3e7c1027e23f657cbfd095325a1ad41f9598a7",
+    "GLHF_pkg/GLHF/imports.py": "7bd62788fa41620bad2be9856b8e1cd8c274d1e6239c4906670ff108d2934b1e",
+    "GLHF_pkg/GLHF/problem.py": "9243242ac7c3d2192ccc7d30a41c3b193d977e49ee6c83a8fe4c952131d1f4a0",
+    "GLHF_pkg/GLHF/utils.py": "ad3a8a5aa71ff4cee6b8609c6718fb6228bcae8fd87ce4b5dae28949875656b3",
+    "GLHF_pkg/GLHF/GLHFMODEL.py": "c25ee7384a79b5c62c40a8f4e8aef446ace6e056cd1cb5eb081d75eaae94425f",
+    "BBOB_pkg/BBOB/__init__.py": "f186246eaa742ccb886a1c8f78cf3b553c7ffd8beff8e88968f887972f60c05c",
+    "BBOB_pkg/BBOB/bbobfunctions.py": "3b17e8d0ae28f6154493000fda253029213678801cc6d14b31203f7b47624e1c",
+    "BBOB_pkg/BBOB/utils.py": "f682f0fd38ee666f4284b3b2e851667c1b86f5bb1c281f69e65d6a74bf615ea7"
+  }
+}
